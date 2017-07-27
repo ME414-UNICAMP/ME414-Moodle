@@ -173,7 +173,7 @@ Oculte a coluna **Total do Curso**, pois não será utilizada.
 
 <center><img src="figuras/Z6.png" width=500></center>
 
-
+**IMPORTANTE** : não preencha a coluna **Exame** para alunos que não ficaram de exame. Para os que ficaram de exame, mas não compareceram, preencha como 0. Desta maneira, a coluna **MF total** irá conter **MF** calculada corretamente automaticamente.
 
 
 #### Inserindo Atividades
