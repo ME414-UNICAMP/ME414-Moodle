@@ -21,6 +21,9 @@
 
 4- Escolher a disciplina, carregar, confirmar.
 
+### Cadastrando PEDs na turma
+
+Se os PEDs estiverem trabalhando conjuntamente nas turmas, o ideal é que se cadastre todos na sua turma.
 
 
 ### Comunicação com os alunos
@@ -126,6 +129,11 @@ Repita para **Prova 2**
 
 
 <center><img src="figuras/Y.png" width=500></center>
+
+IMPORTANTE: Clicar em **Mostrar mais** e desabilitar **Desconsiderar notas vazias** (caso contrário ele calcula a média ponderada descartando *missing values*).
+
+<center><img src="figuras/Z17.png" width=500></center>
+
 
 
 Repita para **Atividade 2**
