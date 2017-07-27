@@ -21,10 +21,9 @@
 
 4- Escolher a disciplina, carregar, confirmar.
 
-### Configuração da turma
 
 
-#### Comunicação com os alunos
+### Comunicação com os alunos
 
 A página já vem com o quadro de **Avisos** ativa, que pode ser usada para **mandar mensagens para toda a classe**.
 
@@ -40,7 +39,7 @@ Opcionalmente, selecionar: **Enviar email em seguida** (caso contrário o aluno 
 <center><img src="figuras/F.png" width=500></center>
 
 
-#### Lista de presença
+### Lista de presença
 
 1- Ative a edição:
 
@@ -86,7 +85,7 @@ Opcionalmente, selecionar: **Enviar email em seguida** (caso contrário o aluno 
 <center><img src="figuras/O.png" width=500></center>
 
 
-#### Tópico de Informações Gerais
+### Tópico de Informações Gerais
 
 
 1- Renomeie o **Tópico 1** e depois clique em **Editar** caso queira colocar as informações diretamente.
@@ -101,7 +100,7 @@ Opcionalmente, selecionar: **Enviar email em seguida** (caso contrário o aluno 
 <center><img src="figuras/R.png" width=500></center>
 
 
-#### Livro de Notas
+### Livro de Notas
 
 
 A configuração deste exemplo se refere ao seguinte critério de avaliação:
@@ -138,10 +137,11 @@ Crie a **Média Geral MG**, através de **adicione um ITEM de nota** e modifique
 
 <center><img src="figuras/W.png" width=500></center>
 
+Configure a fórmula de **MG**:
 
 <center><img src="figuras/Z.png" width=500></center>
 
-Configure a fórmula de **MG**, mas primeiro:
+Primeiro:
 
 <center><img src="figuras/Z1.png" width=500></center>
 
@@ -149,7 +149,7 @@ Em seguinda, insira a fórmula:
 
 <center><img src="figuras/Z2.png" width=500></center>
 
-Crie a **Média Final MG**, através de **adicione uma CATEGORIA de nota** e modifique a nota máxima para 10.
+Crie a **Média Final MF**, através de **adicione uma CATEGORIA de nota** e modifique a nota máxima para 10.
 
 Crie o **Exame**, através de **adicione um ITEM de nota** e modifique a nota máxima para 10.
 
@@ -176,12 +176,55 @@ Oculte a coluna **Total do Curso**, pois não será utilizada.
 **IMPORTANTE** : não preencha a coluna **Exame** para alunos que não ficaram de exame. Para os que ficaram de exame, mas não compareceram, preencha como 0. Desta maneira, a coluna **MF total** irá conter **MF** calculada corretamente automaticamente.
 
 
-#### Inserindo Atividades
+### Inserindo notas de aula
+
+Renomeie o tópico de acordo com a preferência.
+
+<center><img src="figuras/Z8.png" width=500></center>
+
+Duas opções: **adicionar recurso** ou **editar**.
+
+Caso **adcionar recurso** seja selecionada, há diversas opções, por exemplo, **adicionar URL**:
 
 
+<center><img src="figuras/Z9.png" width=500></center>
 
 
+<center><img src="figuras/Z10.png" width=500></center>
+
+Resultado:
+
+<center><img src="figuras/Z11.png" width=500></center>
 
 
+### Importando Banco de Questões - Arquivos XML
 
+Para questões geradas através de programação, utilizando o pacote exams do R
+
+<center><img src="figuras/Z12.png" width=500></center>
+
+<center><img src="figuras/Z13.png" width=500></center>
+
+Para acessar as questões importadas:
+
+
+<center><img src="figuras/Z14.png" width=500></center>
+
+Depois selecione pelo menu:
+
+<center><img src="figuras/Z15.png" width=500></center>
+
+Questões selecionadas para verificação:
+
+<center><img src="figuras/Z16.png" width=500></center>
+
+Neste exemplo, a questão Q1freq tem 400 versões.
+
+### Criando uma Questão - Arquivos XML
+
+Este exemplo se refere a um exercício que utilizará uma questão gerada através de programação, utilizando o pacote exams do R. É preciso que o  banco de questões já tenha sido importado (instruções acima).
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9NwfSYApyg" frameborder="0" allowfullscreen></iframe></center>
+
+A cada tentativa desta questão (é possível configurar o máximo de tentativas) o aluno receberá, ao acaso, uma versão da mesma questão.
 
