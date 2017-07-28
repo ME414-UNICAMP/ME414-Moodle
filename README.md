@@ -103,6 +103,27 @@ Opcionalmente, selecionar: **Enviar email em seguida** (caso contrário o aluno 
 <center><img src="figuras/R.png" width=500></center>
 
 
+### Inserindo notas de aula
+
+Renomeie o tópico de acordo com a preferência.
+
+<center><img src="figuras/Z8.png" width=500></center>
+
+Duas opções: **adicionar recurso** ou **editar**.
+
+Caso **adcionar recurso** seja selecionada, há diversas opções, por exemplo, **adicionar URL**:
+
+
+<center><img src="figuras/Z9.png" width=500></center>
+
+
+<center><img src="figuras/Z10.png" width=500></center>
+
+Resultado:
+
+<center><img src="figuras/Z11.png" width=500></center>
+
+
 ### Livro de Notas
 
 
@@ -184,25 +205,17 @@ Oculte a coluna **Total do Curso**, pois não será utilizada.
 **IMPORTANTE** : não preencha a coluna **Exame** para alunos que não ficaram de exame. Para os que ficaram de exame, mas não compareceram, preencha como 0. Desta maneira, a coluna **MF total** irá conter **MF** calculada corretamente automaticamente.
 
 
-### Inserindo notas de aula
+### Configuração de Notas
 
-Renomeie o tópico de acordo com a preferência.
+Opcional, pois os alunos ficam confusos com tanta informação que aparece no quadro de notas individual.
 
-<center><img src="figuras/Z8.png" width=500></center>
+<center><img src="figuras/Z18.png" width=500></center>
 
-Duas opções: **adicionar recurso** ou **editar**.
+<center><img src="figuras/Z19.png" width=500></center>
 
-Caso **adcionar recurso** seja selecionada, há diversas opções, por exemplo, **adicionar URL**:
+<center><img src="figuras/Z20.png" width=500></center>
 
-
-<center><img src="figuras/Z9.png" width=500></center>
-
-
-<center><img src="figuras/Z10.png" width=500></center>
-
-Resultado:
-
-<center><img src="figuras/Z11.png" width=500></center>
+<center><img src="figuras/Z21.png" width=500></center>
 
 
 ### Importando Banco de Questões - Arquivos XML
@@ -235,4 +248,5 @@ Este exemplo se refere a um exercício que utilizará uma questão gerada atrav�
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9NwfSYApyg" frameborder="0" allowfullscreen></iframe></center>
 
 A cada tentativa desta questão (é possível configurar o máximo de tentativas) o aluno receberá, ao acaso, uma versão da mesma questão.
+
 
