@@ -126,7 +126,6 @@ Resultado:
 
 ### Livro de Notas
 
-
 A configuração deste exemplo se refere ao seguinte critério de avaliação:
 
 <center><img src="figuras/T.png" width=800></center>
