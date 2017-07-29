@@ -9,17 +9,17 @@
 <center><img src="figuras/A.png" width=500></center>
 
 
-2- Login: usuário DAC
+3- Login: usuário DAC
 
 <center><img src="figuras/B.png" width=500></center>
 
 
-3- Carregar disciplinas
+4- Carregar disciplinas
 
 <center><img src="figuras/C.png" width=500></center>
 
 
-4- Escolher a disciplina, carregar, confirmar.
+5- Escolher a disciplina, carregar, confirmar.
 
 ### Cadastrando PEDs na turma
 
