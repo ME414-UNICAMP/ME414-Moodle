@@ -25,6 +25,12 @@
 
 Se os PEDs estiverem trabalhando conjuntamente nas turmas, o ideal é que se cadastre todos na sua turma.
 
+<center><img src="figuras/Z22.png" width=500></center>
+
+<center><img src="figuras/Z23.png" width=500></center>
+
+<center><img src="figuras/Z24.png" width=500></center>
+
 
 ### Comunicação com os alunos
 
@@ -125,6 +131,9 @@ Resultado:
 
 
 ### Livro de Notas
+
+Opcional, pois é possível simplesmente fazer upload de planilha com as notas, da maneira usual.
+
 
 A configuração deste exemplo se refere ao seguinte critério de avaliação:
 
