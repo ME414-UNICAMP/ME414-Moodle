@@ -117,7 +117,7 @@ Renomeie o tópico de acordo com a preferência.
 
 Duas opções: **adicionar recurso** ou **editar**.
 
-Caso **adcionar recurso** seja selecionada, há diversas opções, por exemplo, **adicionar URL**:
+Caso **adicionar recurso** seja selecionada, há diversas opções, por exemplo, **adicionar URL**:
 
 
 <center><img src="figuras/Z9.png" width=500></center>
