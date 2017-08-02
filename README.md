@@ -251,10 +251,10 @@ Neste exemplo, a questão Q1freq tem 400 versões.
 
 ### Criando uma Questão - Arquivos XML
 
-Este exemplo se refere a um exercício que utilizará uma questão gerada através de programação, utilizando o pacote exams do R. É preciso que o  banco de questões já tenha sido importado (instruções acima).
+Este exemplo se refere a um exercício que utilizará uma questão gerada através de programação, utilizando o pacote exams do R. É preciso que o  banco de questões já tenha sido importado (instruções acima). A cada tentativa desta questão (é possível configurar o máximo de tentativas) o aluno receberá, ao acaso, uma versão da mesma questão.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/i9NwfSYApyg" frameborder="0" allowfullscreen></iframe></center>
 
-A cada tentativa desta questão (é possível configurar o máximo de tentativas) o aluno receberá, ao acaso, uma versão da mesma questão.
+[https://www.youtube.com/embed/i9NwfSYApyg](https://www.youtube.com/embed/i9NwfSYApyg)
+
 
 
